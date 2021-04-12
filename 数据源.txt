@@ -1,0 +1,10 @@
+
+https://www.msys2.org/
+
+http://mirrors.ustc.edu.cn/
+
+http://mirrors.ustc.edu.cn/msys2/mingw/i686/
+
+http://mirrors.ustc.edu.cn/msys2/mingw/x86_64/
+
+./configure --enable-shared --enable-postproc --enable-avresample --enable-gpl --toolchain=msvc --disable-debug --disable-static --disable-doc --disable-ffmpeg --disable-ffplay --disable-ffprobe --disable-symver --disable-stripping --prefix=./build
